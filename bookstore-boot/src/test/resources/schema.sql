@@ -7,5 +7,3 @@ create table books (
     description varchar(50) NOT NULL,
     PRIMARY KEY (isbn)
 );
-
-
